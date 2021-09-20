@@ -11287,7 +11287,7 @@ textarea.form-control-lg {
   height: 500px;
   margin-top: 0px;
   background-size: cover;
-  background-image: url(header-image-books.jpg);
+  background-image: url(../header-image-books.jpg);
   box-shadow: inset 0px 0px 600px 0px #000;
 }
 
